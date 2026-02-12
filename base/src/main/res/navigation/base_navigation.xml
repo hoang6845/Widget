@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/base_navigation"
+    app:startDestination="@id/containerOnboardFragment">
+
+    <fragment
+        android:id="@+id/containerOnboardFragment"
+        android:name="com.brally.mobile.ui.container_onboard.ContainerOnboardFragment"
+        tools:layout="@layout/fragment_container_onboard" />
+
+    <fragment
+        android:id="@+id/appLanguageFragment"
+        android:name="com.brally.mobile.ui.language.AppLanguageFragment"
+        android:label="fragment_app_language"
+        tools:layout="@layout/fragment_app_language" />
+
+    <fragment
+        android:id="@+id/appOnboardFragment"
+        android:name="com.brally.mobile.ui.onboard.AppOnboardFragment"
+        tools:layout="@layout/fragment_app_onboarding"/>
+
+</navigation>

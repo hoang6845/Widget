@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">読み込み中…</string>
+    <string name="visit_site">サイトを訪問</string>
+    <string name="next_text">次へ</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="connection_lost">接続が失われました</string>
+    <string name="connection_lost_description">インターネット接続を確認して、再試行してください</string>
+    <string name="do_you_like_quick_draw">このアプリは気に入りましたか？</string>
+    <string name="rate_app_description">あなたの評価はアプリをさらに良くする助けになります。</string>
+    <string name="enter_your_feedback">フィードバックを入力してください</string>
+    <string name="setting">設定</string>
+    <string name="downloading">%s をダウンロード中..</string>
+    <string name="text_ob_1">4K高画質ライブ壁紙</string>
+    <string name="text_ob_2">楽しいライブ壁紙がたくさん</string>
+    <string name="text_ob_3">ユニークで個性的にカスタマイズ</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">ステッカー</string>
+    <string name="request_reason_write_storage_text">写真を保存するにはこの権限が必要です！</string>
+    <string name="request_again_text">再リクエスト</string>
+    <string name="grant_manually_in_settings_notification">画像を保存するには、設定で手動で権限を許可してください。</string>
+    <string name="i_got_it_text">了解</string>
+    <string name="permission_denied_text">権限が拒否されました！</string>
+    <string name="title_cancel">キャンセル</string>
+    <string name="setting_capp">設定</string>
+    <string-array name="text_first_time">
+        <item>設定を準備しています。しばらくお待ちください…</item>
+        <item>アプリを準備しています…</item>
+        <item>初回データを読み込み中…</item>
+    </string-array>
+</resources>

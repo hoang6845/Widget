@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Cargando…</string>
+    <string name="visit_site">Visitar sitio</string>
+    <string name="next_text">Siguiente</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="connection_lost">Conexión perdida</string>
+    <string name="connection_lost_description">Verifica tu conexión a internet e inténtalo de nuevo</string>
+    <string name="do_you_like_quick_draw">¿Te gusta esta aplicación?</string>
+    <string name="rate_app_description">Tu valoración nos ayudará a mejorar la aplicación.</string>
+    <string name="enter_your_feedback">Introduce tus comentarios</string>
+    <string name="setting">Configuración</string>
+    <string name="downloading">Descargando %s…</string>
+    <string name="text_ob_1">Fondo de pantalla en vivo en calidad 4K</string>
+    <string name="text_ob_2">Variedad de fondos de pantalla animados divertidos</string>
+    <string name="text_ob_3">Personaliza de forma única</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Pegatina</string>
+    <string name="request_reason_write_storage_text">¡Necesitamos este permiso para guardar la foto!</string>
+    <string name="request_again_text">Solicitar de nuevo</string>
+    <string name="grant_manually_in_settings_notification">Por favor, otorga los permisos manualmente en Configuración para guardar tu imagen.</string>
+    <string name="i_got_it_text">Entendido</string>
+    <string name="permission_denied_text">¡Permiso denegado!</string>
+    <string name="title_cancel">Cancelar</string>
+    <string name="setting_capp">CONFIGURACIÓN</string>
+    <string-array name="text_first_time">
+        <item>Configurando, por favor espera…</item>
+        <item>Preparando tu aplicación…</item>
+        <item>Cargando datos por primera vez…</item>
+    </string-array>
+</resources>

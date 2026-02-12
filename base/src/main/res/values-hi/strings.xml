@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">लोड हो रहा है…</string>
+    <string name="visit_site">साइट पर जाएं</string>
+    <string name="next_text">आगे</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="connection_lost">कनेक्शन टूट गया</string>
+    <string name="connection_lost_description">कृपया अपना इंटरनेट कनेक्शन जांचें और पुनः प्रयास करें</string>
+    <string name="do_you_like_quick_draw">क्या आपको यह एप्लिकेशन पसंद है?</string>
+    <string name="rate_app_description">आपकी रेटिंग हमें ऐप को और बेहतर बनाने में मदद करेगी।</string>
+    <string name="enter_your_feedback">अपनी प्रतिक्रिया दर्ज करें</string>
+    <string name="setting">सेटिंग</string>
+    <string name="downloading">%s डाउनलोड हो रहा है..</string>
+    <string name="text_ob_1">4K क्वालिटी लाइव वॉलपेपर</string>
+    <string name="text_ob_2">मज़ेदार लाइव वॉलपेपर का संग्रह</string>
+    <string name="text_ob_3">अपनी अनोखी शैली खुद बनाएं</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">स्टिकर</string>
+    <string name="request_reason_write_storage_text">फोटो सेव करने के लिए यह अनुमति आवश्यक है!</string>
+    <string name="request_again_text">फिर से अनुरोध करें</string>
+    <string name="grant_manually_in_settings_notification">कृपया सेटिंग्स में जाकर अनुमति मैन्युअली दें ताकि छवि सहेजी जा सके।</string>
+    <string name="i_got_it_text">समझ गया</string>
+    <string name="permission_denied_text">अनुमति अस्वीकृत!</string>
+    <string name="title_cancel">रद्द करें</string>
+    <string name="setting_capp">सेटिंग</string>
+    <string-array name="text_first_time">
+        <item>कृपया प्रतीक्षा करें, हम तैयारी कर रहे हैं…</item>
+        <item>ऐप तैयार किया जा रहा है…</item>
+        <item>पहली बार डेटा लोड किया जा रहा है…</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Ștergeți acest element?</string>
+    <string name="delete_now">Șterge acum</string>
+    <string name="next">Următorul</string>
+    <string name="check_for_update">Verifică actualizări</string>
+    <string name="language">Limbă</string>
+    <string name="feed_back">Feedback</string>
+    <string name="u_sure_exit_app">Sigur doriți să ieșiți?</string>
+    <string name="yes_exit">DA, IEȘIRE</string>
+    <string name="term">Termeni de utilizare</string>
+    <string name="share_to_your_friends">Distribuie prietenilor tăi</string>
+    <string name="rate_5_stars">Evaluează cu 5 stele</string>
+    <string name="feedback">Feedback</string>
+    <string name="policy">Politică</string>
+    <string name="cmp_setting">Setare CMP</string>
+    <string name="image_saved_to_gallery">Element salvat în galerie!</string>
+    <string name="failed_to_save_image_to_gallery">Nu s-a putut salva imaginea în galerie</string>
+    <string name="coming_soon">În curând!</string>
+    <string name="rate_us">Evaluează-ne</string>
+    <string name="something_went_wrong">Ceva nu a funcționat! Vă rugăm să încercați din nou mai târziu.</string>
+    <string name="download">Descarcă</string>
+    <string name="share">Distribuie</string>
+    <string name="your_progress_might_be_lost">Progresul dvs. ar putea fi pierdut.</string>
+    <string name="no_stay">NU, RĂMÂN</string>
+    <string name="this_action_may_contain_ads">Această acțiune poate conține reclame..</string>
+    <string name="save">Salvează</string>
+    <string name="choose_level">Alege nivelul</string>
+    <string name="easy">Ușor</string>
+    <string name="medium">Mediu</string>
+    <string name="hard">Dificil</string>
+    <string name="sound_fx">Efecte sonore</string>
+    <string name="music">Muzică</string>
+    <string name="vibrate">Vibrare</string>
+</resources>

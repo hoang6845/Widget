@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Удалить этот элемент?</string>
+    <string name="delete_now">Удалить сейчас</string>
+    <string name="next">Далее</string>
+    <string name="check_for_update">Проверить обновления</string>
+    <string name="language">Язык</string>
+    <string name="feed_back">Обратная связь</string>
+    <string name="u_sure_exit_app">Вы уверены, что хотите выйти?</string>
+    <string name="yes_exit">ДА, ВЫЙТИ</string>
+    <string name="term">Условия использования</string>
+    <string name="share_to_your_friends">Поделиться с друзьями</string>
+    <string name="rate_5_stars">Оценить на 5 звезд</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="policy">Политика</string>
+    <string name="cmp_setting">Настройка CMP</string>
+    <string name="image_saved_to_gallery">Элемент сохранен в галерее!</string>
+    <string name="failed_to_save_image_to_gallery">Не удалось сохранить изображение в галерею</string>
+    <string name="coming_soon">Скоро!</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="something_went_wrong">Что-то пошло не так! Пожалуйста, повторите попытку позже.</string>
+    <string name="download">Скачать</string>
+    <string name="share">Поделиться</string>
+    <string name="your_progress_might_be_lost">Ваш прогресс может быть потерян.</string>
+    <string name="no_stay">НЕТ, ОСТАТЬСЯ</string>
+    <string name="this_action_may_contain_ads">Это действие может содержать рекламу..</string>
+    <string name="save">Сохранить</string>
+    <string name="choose_level">Выбрать уровень</string>
+    <string name="easy">Легкий</string>
+    <string name="medium">Средний</string>
+    <string name="hard">Сложный</string>
+    <string name="sound_fx">Звуковые эффекты</string>
+    <string name="music">Музыка</string>
+    <string name="vibrate">Вибрация</string>
+</resources>

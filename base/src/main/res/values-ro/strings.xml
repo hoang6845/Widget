@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Se încarcă…</string>
+    <string name="visit_site">Vizitează site-ul</string>
+    <string name="next_text">Următorul</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="connection_lost">Conexiune pierdută</string>
+    <string name="connection_lost_description">Verifică-ți conexiunea la internet și încearcă din nou</string>
+    <string name="do_you_like_quick_draw">Îți place această aplicație?</string>
+    <string name="rate_app_description">Evaluarea ta ne va ajuta să îmbunătățim aplicația.</string>
+    <string name="enter_your_feedback">Introdu feedback-ul tău</string>
+    <string name="setting">Setări</string>
+    <string name="downloading">Se descarcă %s…</string>
+    <string name="text_ob_1">Wallpaper live de calitate 4K</string>
+    <string name="text_ob_2">Varietate de wallpaper-uri live distractive</string>
+    <string name="text_ob_3">Creează personalizări unice</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Sticker</string>
+    <string name="request_reason_write_storage_text">Avem nevoie de această permisiune pentru a salva fotografia!</string>
+    <string name="request_again_text">Solicită din nou</string>
+    <string name="grant_manually_in_settings_notification">Acordă permisiunile manual în Setări pentru a salva imaginea ta.</string>
+    <string name="i_got_it_text">Am înțeles</string>
+    <string name="permission_denied_text">Permisiune refuzată!</string>
+    <string name="title_cancel">Anulează</string>
+    <string name="setting_capp">SETARE</string>
+    <string-array name="text_first_time">
+        <item>Se configurează, te rugăm să aștepți…</item>
+        <item>Pregătim aplicația ta…</item>
+        <item>Se încarcă datele pentru prima dată…</item>
+    </string-array>
+</resources>

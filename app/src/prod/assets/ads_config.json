@@ -1,0 +1,448 @@
+{
+  "configs": {
+    "enable": true,
+    "interval": 30,
+    "app_name": "Live Charge Animation: Fun FX",
+    "app_id": "ca-app-pub-3496837808275902~1231231"
+  },
+  "placements": {
+    "open_app": {
+      "ordered_ads": "open",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "banner": {
+      "ordered_ads": "banner",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "reward": {
+      "ordered_ads": "reward",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "splash": {
+      "ordered_ads": "splash",
+      "placement_config": {
+        "enable": false
+      }
+    },
+    "full_getstarted": {
+      "ordered_ads": "fsn1",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": false
+      }
+    },
+    "full_category": {
+      "ordered_ads": "full;fsn1",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": true
+      }
+    },
+    "full_charging": {
+      "ordered_ads": "full",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": true
+      }
+    },
+    "full_completed": {
+      "ordered_ads": "fsn1;fsn2",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": true
+      }
+    },
+    "full_favorite": {
+      "ordered_ads": "full;fsn1",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": true
+      }
+    },
+    "full_favorite_detail": {
+      "ordered_ads": "fsn1;fsn2",
+      "placement_config": {
+        "loading_time": 1,
+        "loading_enable": true,
+        "enable": true
+      }
+    },
+    "full_backup": {
+      "ordered_ads": "full_backup",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_language": {
+      "ordered_ads": "native_mediaview1",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_onboard1": {
+      "ordered_ads": "native_mediaview2",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_onboard2": {
+      "ordered_ads": "native_mediaview1",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_onboard3": {
+      "ordered_ads": "native_mediaview2",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_onboard_full": {
+      "ordered_ads_meta": "native_meta_fsn",
+      "ordered_ads": "native_onboard_full_screen",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_home": {
+      "ordered_ads": "native_cl",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_category": {
+      "ordered_ads": "native_icon",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_charging": {
+      "ordered_ads_meta": "native_meta_icon",
+      "ordered_ads": "native_icon",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_completed": {
+      "ordered_ads_meta": "native_meta_cl",
+      "ordered_ads": "native_cl",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_favorite": {
+      "ordered_ads_meta": "native_meta_cl",
+      "ordered_ads": "native_cl",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_favorite_detail": {
+      "ordered_ads_meta": "native_meta_icon",
+      "ordered_ads": "native_icon",
+      "placement_config": {
+        "enable": true
+      }
+    },
+    "native_backup": {
+      "ordered_ads": "native_backup",
+      "placement_config": {
+        "enable": true
+      }
+    }
+  },
+  "ad_item": {
+    "open": {
+      "unit": "open",
+      "enable": true
+    },
+    "banner": {
+      "unit": "banner",
+      "enable": true
+    },
+    "reward": {
+      "unit": "reward",
+      "enable": true
+    },
+    "splash": {
+      "unit": "full_splash",
+      "enable": true
+    },
+    "full": {
+      "unit": "full",
+      "enable": true
+    },
+    "full_backup": {
+      "unit": "full_backup",
+      "enable": true
+    },
+    "native_icon": {
+      "unit": "native_icon",
+      "enable": true,
+        "native_config": {
+          "should_reload": true,
+          "layout_res": "common_admob_layout_native_medium_button_close_1",
+          "meta_layout_res": "common_admob_layout_native_medium_button_close_1"
+        }
+    },
+    "native_meta_view": {
+      "unit": "native_meta_view",
+      "enable": true,
+      "native_config": {
+        "meta_layout_direct_res": "common_layout_native_view_meta_1",
+        "should_reload": true
+      }
+    },
+    "native_meta_cl": {
+      "unit": "native_meta_cl",
+      "enable": true,
+      "native_config": {
+        "meta_layout_direct_res": "common_layout_native_collap_meta_right_close_1",
+        "should_reload": true,
+        "hide_media_view_enable": true,
+        "hide_native_enable": true
+      }
+    },
+    "native_meta_fsn": {
+      "unit": "native_meta_fsn",
+      "enable": true,
+      "native_config": {
+        "meta_layout_direct_res": "common_layout_meta_fsn_5",
+        "countdown_time": 0,
+        "delay_time": 1,
+        "should_reload": true
+      }
+    },
+    "native_meta_icon": {
+      "unit": "native_meta_icon",
+      "enable": true,
+      "native_config": {
+        "meta_layout_direct_res": "common_layout_native_icon_meta_button_bottom",
+        "should_reload": true
+      }
+    },
+    "native_mediaview1": {
+      "unit": "native_view1",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_admob_layout_native_medium_button_close_1",
+        "meta_layout_res": "common_layout_native_view_meta_1",
+        "meta_layout_direct_res": "common_layout_native_view_meta_1"
+      }
+    },
+    "native_mediaview2": {
+      "unit": "native_view2",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_admob_layout_native_medium_button_close_1",
+        "meta_layout_res": "common_layout_native_view_meta_1",
+        "meta_layout_direct_res": "common_layout_native_view_meta_1"
+      }
+    },
+    "native_onboard_full_screen": {
+      "unit": "native_fsn",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_layout_fsn_new_style_270825",
+        "meta_layout_res": "common_layout_fsn_new_style_270825",
+        "meta_layout_direct_res": "common_layout_meta_fsn_5",
+        "blur_background": true
+      }
+    },
+    "native_cl": {
+      "unit": "native_cl",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_layout_native_collap_right_close_1508_25",
+        "meta_layout_res": "common_layout_native_collap_right_close_1508_25",
+        "meta_layout_direct_res": "common_layout_native_collap_meta_right_close_1",
+        "countdown_reload": 10,
+        "unit_key_reload": "native_cl2",
+        "hide_native_enable": true
+      }
+    },
+    "native_cl2": {
+      "unit": "native_cl",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_layout_native_collap_right_close_1508_25",
+        "meta_layout_res": "common_layout_native_collap_right_close_1508_25",
+        "meta_layout_direct_res": "common_layout_native_collap_meta_right_close_1",
+        "hide_native_enable": true
+      }
+    },
+    "fsn1": {
+      "unit": "native_fsn",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_admob_fsn_new_1508",
+        "meta_layout_res": "common_admob_fsn_new_1508",
+        "meta_layout_direct_res": "common_layout_meta_fsn_5",
+        "countdown_time": 0,
+        "countdown_reload": 11,
+        "delay_show_close_reload_button": 1,
+        "unit_key_reload": "fsn2",
+        "delay_time": 1
+      }
+    },
+    "fsn2": {
+      "unit": "native_fsn",
+      "enable": true,
+      "native_config": {
+        "layout_res": "common_admob_fsn_new_1508",
+        "meta_layout_res": "common_admob_fsn_new_1508",
+        "meta_layout_direct_res": "common_layout_meta_fsn_5",
+        "countdown_time": 0,
+        "delay_time": 1
+      }
+    }
+  },
+  "units": {
+    "open_app": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/3419835294",
+        "order": "1"
+      }
+    ],
+    "banner": [
+      {
+        "network": "facebook_banner",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      },
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "enable": true
+      }
+    ],
+    "reward": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/5224354917",
+        "enable": true
+      }
+    ],
+    "full_splash": [
+      {
+        "network": "facebook_interstitial",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "order": "1"
+      },
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "order": "1"
+      }
+    ],
+    "full": [
+      {
+        "network": "facebook_interstitial",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "order": "1"
+      },
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "order": "1"
+      }
+    ],
+    "full_backup": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "order": "1"
+      }
+    ],
+    "native_cl": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true
+      }
+    ],
+    "native_icon": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true,
+        "native_config": {
+          "countdown_reload": 5
+        }
+      }
+    ],
+    "native_view1": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true
+      }
+    ],
+    "native_view2": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true
+      }
+    ],
+    "native_fsn": [
+      {
+        "network": "facebook_view",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      },
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true
+      }
+    ],
+    "native_meta_view": [
+      {
+        "network": "facebook_view",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      }
+    ],
+    "native_meta_icon": [
+      {
+        "network": "facebook_icon",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      }
+    ],
+    "native_meta_cl": [
+      {
+        "network": "facebook_view",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      }
+    ],
+    "native_meta_fsn": [
+      {
+        "network": "facebook_view",
+        "unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "enable": true
+      }
+    ],
+    "native_backup": [
+      {
+        "network": "admob",
+        "unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "enable": true
+      }
+    ]
+  }
+}

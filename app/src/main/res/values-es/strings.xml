@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">¿Eliminar este elemento?</string>
+    <string name="delete_now">Eliminar ahora</string>
+    <string name="next">Siguiente</string>
+    <string name="check_for_update">Buscar actualizaciones</string>
+    <string name="language">Idioma</string>
+    <string name="feed_back">Comentarios</string>
+    <string name="u_sure_exit_app">¿Estás seguro de que quieres salir?</string>
+    <string name="yes_exit">SÍ, SALIR</string>
+    <string name="term">Términos de uso</string>
+    <string name="share_to_your_friends">Compartir con amigos</string>
+    <string name="rate_5_stars">Calificar 5 estrellas</string>
+    <string name="feedback">Comentarios</string>
+    <string name="policy">Política</string>
+    <string name="cmp_setting">Configuración CMP</string>
+    <string name="image_saved_to_gallery">¡Imagen guardada en la galería!</string>
+    <string name="failed_to_save_image_to_gallery">Error al guardar la imagen en la galería</string>
+    <string name="coming_soon">¡Próximamente!</string>
+    <string name="rate_us">Califícanos</string>
+    <string name="something_went_wrong">¡Algo salió mal! Por favor, inténtalo de nuevo más tarde.</string>
+    <string name="download">Descargar</string>
+    <string name="share">Compartir</string>
+    <string name="your_progress_might_be_lost">Tu progreso podría perderse.</string>
+    <string name="no_stay">NO, QUEDARME</string>
+    <string name="this_action_may_contain_ads">Esta acción puede contener anuncios..</string>
+    <string name="save">Guardar</string>
+    <string name="choose_level">Elegir nivel</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="hard">Difícil</string>
+    <string name="sound_fx">Efectos de sonido</string>
+    <string name="music">Música</string>
+    <string name="vibrate">Vibrar</string>
+</resources>

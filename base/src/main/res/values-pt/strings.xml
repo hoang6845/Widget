@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Carregando…</string>
+    <string name="visit_site">Visitar site</string>
+    <string name="next_text">Próximo</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="connection_lost">Conexão perdida</string>
+    <string name="connection_lost_description">Verifique sua internet e tente novamente</string>
+    <string name="do_you_like_quick_draw">Você gosta deste aplicativo?</string>
+    <string name="rate_app_description">Sua avaliação nos ajudará a melhorar o aplicativo.</string>
+    <string name="enter_your_feedback">Insira seu feedback</string>
+    <string name="setting">Configurações</string>
+    <string name="downloading">Baixando %s…</string>
+    <string name="text_ob_1">Papel de parede ao vivo em qualidade 4K</string>
+    <string name="text_ob_2">Variedade de papéis de parede animados divertidos</string>
+    <string name="text_ob_3">Crie personalizações únicas</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Adesivo</string>
+    <string name="request_reason_write_storage_text">Precisamos dessa permissão para salvar a foto!</string>
+    <string name="request_again_text">Solicitar novamente</string>
+    <string name="grant_manually_in_settings_notification">Conceda as permissões manualmente em Configurações para salvar sua imagem.</string>
+    <string name="i_got_it_text">Entendi</string>
+    <string name="permission_denied_text">Permissão negada!</string>
+    <string name="title_cancel">Cancelar</string>
+    <string name="setting_capp">CONFIGURAÇÃO</string>
+    <string-array name="text_first_time">
+        <item>Configurando, por favor aguarde…</item>
+        <item>Preparando seu aplicativo…</item>
+        <item>Carregando dados pela primeira vez…</item>
+    </string-array>
+</resources>

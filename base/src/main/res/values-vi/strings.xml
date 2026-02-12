@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Đang tải…</string>
+    <string name="visit_site">Truy cập trang web</string>
+    <string name="next_text">Tiếp theo</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="connection_lost">Mất kết nối</string>
+    <string name="connection_lost_description">Kiểm tra kết nối internet của bạn và thử lại</string>
+    <string name="do_you_like_quick_draw">Bạn có thích ứng dụng này không?</string>
+    <string name="rate_app_description">Đánh giá của bạn sẽ giúp chúng tôi cải thiện ứng dụng tốt hơn.</string>
+    <string name="enter_your_feedback">Nhập phản hồi của bạn</string>
+    <string name="setting">Cài đặt</string>
+    <string name="downloading">Đang tải %s…</string>
+    <string name="text_ob_1">Hình nền động chất lượng 4K</string>
+    <string name="text_ob_2">Nhiều hình nền động vui nhộn</string>
+    <string name="text_ob_3">Tự tạo phong cách độc đáo</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Nhãn dán</string>
+    <string name="request_reason_write_storage_text">Chúng tôi cần quyền này để lưu ảnh!</string>
+    <string name="request_again_text">Yêu cầu lại</string>
+    <string name="grant_manually_in_settings_notification">Vui lòng cấp quyền trong Cài đặt để lưu hình ảnh.</string>
+    <string name="i_got_it_text">Tôi hiểu rồi</string>
+    <string name="permission_denied_text">Từ chối quyền!</string>
+    <string name="title_cancel">Hủy</string>
+    <string name="setting_capp">CÀI ĐẶT</string>
+    <string-array name="text_first_time">
+        <item>Đang thiết lập, vui lòng chờ…</item>
+        <item>Đang chuẩn bị ứng dụng…</item>
+        <item>Đang tải dữ liệu lần đầu tiên…</item>
+    </string-array>
+</resources>

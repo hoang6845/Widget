@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="delete_this_item">この項目を削除しますか？</string>
+    <string name="delete_now">今すぐ削除</string>
+    <string name="next">次へ</string>
+    <string name="check_for_update">アップデートを確認</string>
+    <string name="language">言語</string>
+    <string name="feed_back">フィードバック</string>
+    <string name="u_sure_exit_app">アプリを終了してもよろしいですか？</string>
+    <string name="yes_exit">はい、終了します</string>
+    <string name="term">利用規約</string>
+    <string name="share_to_your_friends">友達と共有する</string>
+    <string name="rate_5_stars">5つ星で評価する</string>
+    <string name="feedback">フィードバック</string>
+    <string name="policy">ポリシー</string>
+    <string name="cmp_setting">CMP設定</string>
+    <string name="image_saved_to_gallery">ギャラリーに保存しました！</string>
+    <string name="failed_to_save_image_to_gallery">ギャラリーに保存できませんでした</string>
+    <string name="coming_soon">近日公開！</string>
+    <string name="rate_us">評価する</string>
+    <string name="something_went_wrong">問題が発生しました。後でもう一度お試しください。</string>
+    <string name="download">ダウンロード</string>
+    <string name="share">共有</string>
+    <string name="your_progress_might_be_lost">進行状況が失われる可能性があります。</string>
+    <string name="no_stay">いいえ、続ける</string>
+    <string name="this_action_may_contain_ads">この操作には広告が含まれる場合があります。</string>
+    <string name="save">保存</string>
+    <string name="choose_level">レベルを選択</string>
+    <string name="easy">簡単</string>
+    <string name="medium">普通</string>
+    <string name="hard">難しい</string>
+    <string name="sound_fx">サウンド効果</string>
+    <string name="music">音楽</string>
+    <string name="vibrate">バイブレーション</string>
+</resources>

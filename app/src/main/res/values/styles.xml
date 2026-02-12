@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="dialog_transparent_width" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowMinWidthMajor">95%</item>
+        <item name="android:windowMinWidthMinor">95%</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+
+    <style name="StyleTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextTitle</item>
+        <item name="android:fontFamily">@font/font_bold</item>
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textFontWeight" >900</item>
+    </style>
+
+    <style name="StyleNormal" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/font_bold</item>
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+    </style>
+
+    <style name="StyleNormalRegular" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/font_regular</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textFontWeight" >600</item>
+    </style>
+
+    <style name="StyleSmall" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/font_bold</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textFontWeight" >600</item>
+    </style>
+
+    <style name="StyleButton" parent="TextAppearance.AppCompat">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/colorTextButton</item>
+        <item name="android:fontFamily">@font/font_bold</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textFontWeight" >700</item>
+    </style>
+</resources>

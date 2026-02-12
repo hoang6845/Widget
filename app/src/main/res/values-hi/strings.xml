@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="delete_this_item">क्या आप इस आइटम को हटाना चाहते हैं?</string>
+    <string name="delete_now">अभी हटाएँ</string>
+    <string name="next">अगला</string>
+    <string name="check_for_update">अपडेट की जाँच करें</string>
+    <string name="language">भाषा</string>
+    <string name="feed_back">प्रतिपुष्टि</string>
+    <string name="u_sure_exit_app">क्या आप वाकई ऐप से बाहर निकलना चाहते हैं?</string>
+    <string name="yes_exit">हाँ, बाहर निकलें</string>
+    <string name="term">उपयोग की शर्तें</string>
+    <string name="share_to_your_friends">अपने दोस्तों के साथ साझा करें</string>
+    <string name="rate_5_stars">5 सितारों की रेटिंग दें</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+    <string name="policy">नीति</string>
+    <string name="cmp_setting">CMP सेटिंग</string>
+    <string name="image_saved_to_gallery">आइटम गैलरी में सहेजा गया!</string>
+    <string name="failed_to_save_image_to_gallery">गैलरी में सहेजने में विफल</string>
+    <string name="coming_soon">जल्द आ रहा है!</string>
+    <string name="rate_us">हमें रेट करें</string>
+    <string name="something_went_wrong">कुछ गलत हो गया! कृपया बाद में पुनः प्रयास करें।</string>
+    <string name="download">डाउनलोड</string>
+    <string name="share">साझा करें</string>
+    <string name="your_progress_might_be_lost">आपकी प्रगति खो सकती है।</string>
+    <string name="no_stay">नहीं, रुके रहें</string>
+    <string name="this_action_may_contain_ads">इस क्रिया में विज्ञापन हो सकते हैं।</string>
+    <string name="save">सहेजें</string>
+    <string name="choose_level">स्तर चुनें</string>
+    <string name="easy">आसान</string>
+    <string name="medium">मध्यम</string>
+    <string name="hard">कठिन</string>
+    <string name="sound_fx">साउंड इफेक्ट</string>
+    <string name="music">संगीत</string>
+    <string name="vibrate">वाइब्रेट</string>
+</resources>

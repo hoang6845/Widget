@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Memuat…</string>
+    <string name="visit_site">Kunjungi situs</string>
+    <string name="next_text">Berikutnya</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="connection_lost">Koneksi terputus</string>
+    <string name="connection_lost_description">Periksa koneksi internet Anda dan coba lagi</string>
+    <string name="do_you_like_quick_draw">Apakah Anda suka aplikasi ini?</string>
+    <string name="rate_app_description">Penilaian Anda akan membantu kami membuat aplikasi ini lebih baik.</string>
+    <string name="enter_your_feedback">Masukkan tanggapan Anda</string>
+    <string name="setting">Pengaturan</string>
+    <string name="downloading">Mengunduh %s…</string>
+    <string name="text_ob_1">Wallpaper hidup kualitas 4K</string>
+    <string name="text_ob_2">Beragam wallpaper hidup yang menyenangkan</string>
+    <string name="text_ob_3">Buat personalisasi unik</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Stiker</string>
+    <string name="request_reason_write_storage_text">Kami memerlukan izin ini untuk menyimpan foto!</string>
+    <string name="request_again_text">Minta lagi</string>
+    <string name="grant_manually_in_settings_notification">Harap berikan izin secara manual di Pengaturan untuk menyimpan gambar Anda.</string>
+    <string name="i_got_it_text">Saya mengerti</string>
+    <string name="permission_denied_text">Izin ditolak!</string>
+    <string name="title_cancel">Batal</string>
+    <string name="setting_capp">PENGATURAN</string>
+    <string-array name="text_first_time">
+        <item>Sedang menyiapkan, harap tunggu…</item>
+        <item>Menyiapkan aplikasi Anda…</item>
+        <item>Memuat data untuk pertama kali…</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Supprimer cet élément ?</string>
+    <string name="delete_now">Supprimer maintenant</string>
+    <string name="next">Suivant</string>
+    <string name="check_for_update">Vérifier les mises à jour</string>
+    <string name="language">Langue</string>
+    <string name="feed_back">Retour d\'information</string>
+    <string name="u_sure_exit_app">Êtes-vous sûr de vouloir quitter ?</string>
+    <string name="yes_exit">OUI, QUITTER</string>
+    <string name="term">Conditions d\'utilisation</string>
+    <string name="share_to_your_friends">Partager avec vos amis</string>
+    <string name="rate_5_stars">Noter 5 étoiles</string>
+    <string name="feedback">Commentaires</string>
+    <string name="policy">Politique</string>
+    <string name="cmp_setting">Paramètres CMP</string>
+    <string name="image_saved_to_gallery">Image enregistrée dans la galerie !</string>
+    <string name="failed_to_save_image_to_gallery">Échec de l\'enregistrement de l\'image dans la galerie</string>
+    <string name="coming_soon">Bientôt disponible !</string>
+    <string name="rate_us">Évaluez-nous</string>
+    <string name="something_went_wrong">Une erreur s\'est produite ! Veuillez réessayer plus tard.</string>
+    <string name="download">Télécharger</string>
+    <string name="share">Partager</string>
+    <string name="your_progress_might_be_lost">Votre progression pourrait être perdue.</string>
+    <string name="no_stay">NON, RESTER</string>
+    <string name="this_action_may_contain_ads">Cette action peut contenir des publicités..</string>
+    <string name="save">Enregistrer</string>
+    <string name="choose_level">Choisir le niveau</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="sound_fx">Effets sonores</string>
+    <string name="music">Musique</string>
+    <string name="vibrate">Vibrer</string>
+</resources>

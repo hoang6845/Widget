@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Chargement…</string>
+    <string name="visit_site">Visiter le site</string>
+    <string name="next_text">Suivant</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="connection_lost">Connexion perdue</string>
+    <string name="connection_lost_description">Vérifiez votre connexion Internet et réessayez</string>
+    <string name="do_you_like_quick_draw">Aimez-vous cette application ?</string>
+    <string name="rate_app_description">Votre note nous aidera à améliorer l’application.</string>
+    <string name="enter_your_feedback">Entrez vos commentaires</string>
+    <string name="setting">Paramètres</string>
+    <string name="downloading">Téléchargement de %s…</string>
+    <string name="text_ob_1">Fond d’écran animé en qualité 4K</string>
+    <string name="text_ob_2">Variété de fonds d’écran animés amusants</string>
+    <string name="text_ob_3">Créez une personnalisation unique</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Autocollant</string>
+    <string name="request_reason_write_storage_text">Nous avons besoin de cette autorisation pour enregistrer la photo !</string>
+    <string name="request_again_text">Demander à nouveau</string>
+    <string name="grant_manually_in_settings_notification">Veuillez accorder les autorisations manuellement dans les paramètres pour enregistrer votre image.</string>
+    <string name="i_got_it_text">J’ai compris</string>
+    <string name="permission_denied_text">Autorisation refusée !</string>
+    <string name="title_cancel">Annuler</string>
+    <string name="setting_capp">PARAMÈTRE</string>
+    <string-array name="text_first_time">
+        <item>Configuration en cours, veuillez patienter…</item>
+        <item>Préparation de votre application…</item>
+        <item>Chargement des données pour la première fois…</item>
+    </string-array>
+</resources>

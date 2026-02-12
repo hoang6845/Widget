@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Caricamento…</string>
+    <string name="visit_site">Visita il sito</string>
+    <string name="next_text">Avanti</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="connection_lost">Connessione persa</string>
+    <string name="connection_lost_description">Controlla la tua connessione Internet e riprova</string>
+    <string name="do_you_like_quick_draw">Ti piace questa applicazione?</string>
+    <string name="rate_app_description">La tua valutazione ci aiuterà a migliorare l\'applicazione.</string>
+    <string name="enter_your_feedback">Inserisci il tuo feedback</string>
+    <string name="setting">Impostazioni</string>
+    <string name="downloading">Download di %s…</string>
+    <string name="text_ob_1">Sfondi animati in qualità 4K</string>
+    <string name="text_ob_2">Varietà di sfondi animati divertenti</string>
+    <string name="text_ob_3">Crea personalizzazioni uniche</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Adesivo</string>
+    <string name="request_reason_write_storage_text">Abbiamo bisogno di questo permesso per salvare la foto!</string>
+    <string name="request_again_text">Richiedi di nuovo</string>
+    <string name="grant_manually_in_settings_notification">Concedi manualmente le autorizzazioni nelle Impostazioni per salvare la tua immagine.</string>
+    <string name="i_got_it_text">Capito</string>
+    <string name="permission_denied_text">Autorizzazione negata!</string>
+    <string name="title_cancel">Annulla</string>
+    <string name="setting_capp">IMPOSTAZIONE</string>
+    <string-array name="text_first_time">
+        <item>Impostazione in corso, attendere…</item>
+        <item>Preparazione dell\'app…</item>
+        <item>Caricamento dati per la prima volta…</item>
+    </string-array>
+</resources>

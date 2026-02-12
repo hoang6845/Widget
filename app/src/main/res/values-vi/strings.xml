@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Xóa mục này?</string>
+    <string name="delete_now">Xóa ngay</string>
+    <string name="next">Tiếp theo</string>
+    <string name="check_for_update">Kiểm tra cập nhật</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="feed_back">Phản hồi</string>
+    <string name="u_sure_exit_app">Bạn có chắc chắn muốn thoát?</string>
+    <string name="yes_exit">CÓ, THOÁT</string>
+    <string name="term">Điều khoản sử dụng</string>
+    <string name="share_to_your_friends">Chia sẻ với bạn bè</string>
+    <string name="rate_5_stars">Đánh giá 5 sao</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="policy">Chính sách</string>
+    <string name="cmp_setting">Cài đặt CMP</string>
+    <string name="image_saved_to_gallery">Đã lưu vào thư viện ảnh!</string>
+    <string name="failed_to_save_image_to_gallery">Không thể lưu ảnh vào thư viện</string>
+    <string name="coming_soon">Sắp ra mắt!</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+    <string name="something_went_wrong">Đã xảy ra lỗi! Vui lòng thử lại sau.</string>
+    <string name="download">Tải xuống</string>
+    <string name="share">Chia sẻ</string>
+    <string name="your_progress_might_be_lost">Tiến trình của bạn có thể bị mất.</string>
+    <string name="no_stay">KHÔNG, Ở LẠI</string>
+    <string name="this_action_may_contain_ads">Hành động này có thể chứa quảng cáo..</string>
+    <string name="save">Lưu</string>
+    <string name="choose_level">Chọn cấp độ</string>
+    <string name="easy">Dễ</string>
+    <string name="medium">Trung bình</string>
+    <string name="hard">Khó</string>
+    <string name="sound_fx">Hiệu ứng âm thanh</string>
+    <string name="music">Âm nhạc</string>
+    <string name="vibrate">Rung</string>
+</resources>

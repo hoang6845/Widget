@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Diesen Artikel löschen?</string>
+    <string name="delete_now">Jetzt löschen</string>
+    <string name="next">Weiter</string>
+    <string name="check_for_update">Nach Updates suchen</string>
+    <string name="language">Sprache</string>
+    <string name="feed_back">Feedback</string>
+    <string name="u_sure_exit_app">Sind Sie sicher, dass Sie beenden möchten?</string>
+    <string name="yes_exit">JA, BEENDEN</string>
+    <string name="term">Nutzungsbedingungen</string>
+    <string name="share_to_your_friends">Mit Freunden teilen</string>
+    <string name="rate_5_stars">5 Sterne bewerten</string>
+    <string name="feedback">Feedback</string>
+    <string name="policy">Datenschutzrichtlinie</string>
+    <string name="cmp_setting">CMP-Einstellung</string>
+    <string name="image_saved_to_gallery">Bild in der Galerie gespeichert!</string>
+    <string name="failed_to_save_image_to_gallery">Fehler beim Speichern des Bildes in der Galerie</string>
+    <string name="coming_soon">Demnächst!</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="something_went_wrong">Etwas ist schiefgelaufen! Bitte versuchen Sie es später erneut.</string>
+    <string name="download">Herunterladen</string>
+    <string name="share">Teilen</string>
+    <string name="your_progress_might_be_lost">Ihr Fortschritt könnte verloren gehen.</string>
+    <string name="no_stay">NEIN, BLEIBEN</string>
+    <string name="this_action_may_contain_ads">Diese Aktion kann Werbung enthalten..</string>
+    <string name="save">Speichern</string>
+    <string name="choose_level">Stufe wählen</string>
+    <string name="easy">Einfach</string>
+    <string name="medium">Mittel</string>
+    <string name="hard">Schwer</string>
+    <string name="sound_fx">Sound Fx</string>
+    <string name="music">Music</string>
+    <string name="vibrate">Vibrate</string>
+</resources>

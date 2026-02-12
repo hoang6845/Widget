@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Загрузка…</string>
+    <string name="visit_site">Посетить сайт</string>
+    <string name="next_text">Далее</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="connection_lost">Соединение потеряно</string>
+    <string name="connection_lost_description">Проверьте интернет и попробуйте снова</string>
+    <string name="do_you_like_quick_draw">Вам нравится это приложение?</string>
+    <string name="rate_app_description">Ваша оценка поможет нам сделать приложение ещё лучше.</string>
+    <string name="enter_your_feedback">Введите ваш отзыв</string>
+    <string name="setting">Настройки</string>
+    <string name="downloading">Загрузка %s…</string>
+    <string name="text_ob_1">Живые обои в 4K качестве</string>
+    <string name="text_ob_2">Разнообразие забавных живых обоев</string>
+    <string name="text_ob_3">Создайте уникальную персонализацию</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Стикер</string>
+    <string name="request_reason_write_storage_text">Нам нужно это разрешение, чтобы сохранить фото!</string>
+    <string name="request_again_text">Запросить снова</string>
+    <string name="grant_manually_in_settings_notification">Пожалуйста, предоставьте разрешения вручную в настройках, чтобы сохранить изображение.</string>
+    <string name="i_got_it_text">Понятно</string>
+    <string name="permission_denied_text">Доступ запрещён!</string>
+    <string name="title_cancel">Отмена</string>
+    <string name="setting_capp">НАСТРОЙКА</string>
+    <string-array name="text_first_time">
+        <item>Настройка, пожалуйста подождите…</item>
+        <item>Подготовка приложения…</item>
+        <item>Загрузка данных впервые…</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">App Name</string>
+    <string name="delete_this_item">Delete this item?</string>
+    <string name="delete_now">Delete now</string>
+    <string name="next">Next</string>
+    <string name="check_for_update">Check for update</string>
+    <string name="language">Language</string>
+    <string name="feed_back">Feedback</string>
+    <string name="u_sure_exit_app">Are you sure you want to exit?</string>
+    <string name="yes_exit">YES, EXIT</string>
+    <string name="term">Term of use</string>
+    <string name="share_to_your_friends">Share to your friends</string>
+    <string name="rate_5_stars">Rate 5 stars</string>
+    <string name="feedback">Feedback</string>
+    <string name="policy">Policy</string>
+    <string name="cmp_setting">Cmp setting</string>
+    <string name="image_saved_to_gallery">Item saved to gallery!</string>
+    <string name="failed_to_save_image_to_gallery">Failed to save image to gallery</string>
+    <string name="coming_soon">Coming soon!</string>
+    <string name="max_size_feedback_text" translatable="false">%d/500</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="something_went_wrong">Something went wrong! Please try again later.</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="your_progress_might_be_lost">Your progress might be lost.</string>
+    <string name="no_stay">NO, STAY</string>
+    <string name="this_action_may_contain_ads">This action may contain ads..</string>
+    <string name="save">Save</string>
+    <string name="choose_level">Choose Level</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="sound_fx">Sound Fx</string>
+    <string name="music">Music</string>
+    <string name="vibrate">Vibrate</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Bezig met laden…</string>
+    <string name="visit_site">Bezoek website</string>
+    <string name="next_text">Volgende</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="connection_lost">Verbinding verbroken</string>
+    <string name="connection_lost_description">Controleer je internetverbinding en probeer opnieuw</string>
+    <string name="do_you_like_quick_draw">Vind je deze app leuk?</string>
+    <string name="rate_app_description">Jouw beoordeling helpt ons de app te verbeteren.</string>
+    <string name="enter_your_feedback">Voer je feedback in</string>
+    <string name="setting">Instellingen</string>
+    <string name="downloading">%s wordt gedownload…</string>
+    <string name="text_ob_1">4K kwaliteit live achtergrond</string>
+    <string name="text_ob_2">Verschillende leuke live achtergronden</string>
+    <string name="text_ob_3">Maak unieke personalisaties</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Sticker</string>
+    <string name="request_reason_write_storage_text">We hebben deze toestemming nodig om de foto op te slaan!</string>
+    <string name="request_again_text">Opnieuw vragen</string>
+    <string name="grant_manually_in_settings_notification">Geef de toestemming handmatig in Instellingen om je afbeelding op te slaan.</string>
+    <string name="i_got_it_text">Begrepen</string>
+    <string name="permission_denied_text">Toestemming geweigerd!</string>
+    <string name="title_cancel">Annuleren</string>
+    <string name="setting_capp">INSTELLING</string>
+    <string-array name="text_first_time">
+        <item>Bezig met instellen, even geduld…</item>
+        <item>Je app wordt voorbereid…</item>
+        <item>Gegevens worden voor het eerst geladen…</item>
+    </string-array>
+</resources>

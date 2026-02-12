@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_this_item">Hapus item ini?</string>
+    <string name="delete_now">Hapus sekarang</string>
+    <string name="next">Selanjutnya</string>
+    <string name="check_for_update">Periksa pembaruan</string>
+    <string name="language">Bahasa</string>
+    <string name="feed_back">Umpan balik</string>
+    <string name="u_sure_exit_app">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes_exit">YA, KELUAR</string>
+    <string name="term">Ketentuan penggunaan</string>
+    <string name="share_to_your_friends">Bagikan ke teman Anda</string>
+    <string name="rate_5_stars">Beri nilai 5 bintang</string>
+    <string name="feedback">Umpan balik</string>
+    <string name="policy">Kebijakan</string>
+    <string name="cmp_setting">Pengaturan CMP</string>
+    <string name="image_saved_to_gallery">Item disimpan ke galeri!</string>
+    <string name="failed_to_save_image_to_gallery">Gagal menyimpan gambar ke galeri</string>
+    <string name="coming_soon">Segera hadir!</string>
+    <string name="rate_us">Nilai Kami</string>
+    <string name="something_went_wrong">Terjadi kesalahan! Silakan coba lagi nanti.</string>
+    <string name="download">Unduh</string>
+    <string name="share">Bagikan</string>
+    <string name="your_progress_might_be_lost">Kemajuan Anda mungkin akan hilang.</string>
+    <string name="no_stay">TIDAK, TETAP</string>
+    <string name="this_action_may_contain_ads">Tindakan ini mungkin mengandung iklan..</string>
+    <string name="save">Simpan</string>
+    <string name="choose_level">Pilih Level</string>
+    <string name="easy">Mudah</string>
+    <string name="medium">Sedang</string>
+    <string name="hard">Sulit</string>
+    <string name="sound_fx">Efek Suara</string>
+    <string name="music">Musik</string>
+    <string name="vibrate">Getarkan</string>
+</resources>

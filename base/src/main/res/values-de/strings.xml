@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="loading_text">Wird geladen…</string>
+    <string name="visit_site">Webseite besuchen</string>
+    <string name="next_text">Weiter</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="connection_lost">Verbindung verloren</string>
+    <string name="connection_lost_description">Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut</string>
+    <string name="do_you_like_quick_draw">Gefällt Ihnen diese Anwendung?</string>
+    <string name="rate_app_description">Ihre Bewertung hilft uns, die App noch besser zu machen.</string>
+    <string name="enter_your_feedback">Geben Sie Ihr Feedback ein</string>
+    <string name="setting">Einstellungen</string>
+    <string name="downloading">Lade %s herunter…</string>
+    <string name="text_ob_1">4K-Qualität Live-Hintergrund</string>
+    <string name="text_ob_2">Vielfalt an lustigen Live-Hintergründen</string>
+    <string name="text_ob_3">Erstelle einzigartige Personalisierungen</string>
+    <string name="description_ob_1">4K Quality Live Wallpaper</string>
+    <string name="description_ob_2">Variety of fun live wallpaper</string>
+    <string name="description_ob_3">Diy unique personalize</string>
+    <string name="sticker">Sticker</string>
+    <string name="request_reason_write_storage_text">Wir benötigen diese Berechtigung, um das Foto zu speichern!</string>
+    <string name="request_again_text">Erneut anfordern</string>
+    <string name="grant_manually_in_settings_notification">Bitte gewähren Sie die Berechtigungen manuell in den Einstellungen, um Ihr Bild zu speichern.</string>
+    <string name="i_got_it_text">Verstanden</string>
+    <string name="permission_denied_text">Berechtigung verweigert!</string>
+    <string name="title_cancel">Abbrechen</string>
+    <string name="setting_capp">EINSTELLUNG</string>
+    <string-array name="text_first_time">
+        <item>Einrichtung läuft, bitte warten…</item>
+        <item>Ihre App wird vorbereitet…</item>
+        <item>Lade Daten zum ersten Mal…</item>
+    </string-array>
+</resources>
