@@ -1,6 +1,6 @@
 {
   "configs": {
-    "enable": true,
+    "enable": false,
     "interval": 300,
     "app_name": "Live Charge Animation: Fun FX",
     "app_id": "ca-app-pub-3496837808275902~1231231",

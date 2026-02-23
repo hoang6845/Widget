@@ -38,4 +38,9 @@
         android:id="@+id/languageAppFragment"
         android:name="com.app.base.ui.language.LanguageAppFragment"
         tools:layout="@layout/fragment_language_app" />
+    <fragment
+        android:id="@+id/wallpaperLiveFragment"
+        android:name="com.app.base.ui.wallpaper_live.WallpaperLiveFragment"
+        android:label="fragment_wallpaper_live"
+        tools:layout="@layout/fragment_wallpaper_live" />
 </navigation>

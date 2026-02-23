@@ -69,6 +69,25 @@ object AppRemoteConfig {
         }
     }
 
+    fun <T> getData(key: String, claszz: Class<T>): T? {
+        return try {
+            val json = braly.getString(key)?.ifEmpty {
+                getBaseApplication().assets.readAssetsFile("$key.json")
+            }
+            strToObj(json, claszz)
+
+        } catch (e: Exception) {
+            e.printStackTrace()
+//            emptyList()
+            if (appInfo().isDebug) {
+                val json = getBaseApplication().assets.readAssetsFile("$key.json")
+                strToObj(json, claszz)
+            } else {
+                null
+            }
+        }
+    }
+
     fun getListArt(): List<ArtItem> {
         val listPathArtItem = getListData(DATA_PIXEL_ART, ArtItem::class.java)
         return listPathArtItem
